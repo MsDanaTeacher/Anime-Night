@@ -1,4 +1,12 @@
 #top-div {
+   background-color: lightblue;
+}
+
+#bottom-div {
+   background-color: lightblue;
+}
+
+#top-div {
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    text-align: center;
 }
