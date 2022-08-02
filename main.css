@@ -1,0 +1,61 @@
+#top-div {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+  
+.new-card, #movie-form {
+   padding: 20px;
+}
+  
+p, h4 {
+   margin: 0px;
+   
+}
+
+h4 {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-family: 'Gemunu Libre', sans-serif;
+   color: white;
+   font-size: 28px;
+}
+
+#rate {
+   padding-bottom: 10px;
+}
+
+p {
+   font-family: 'Gemunu Libre', sans-serif;
+   color: white;
+   font-size: 20px;
+}
+
+h1, h2 {
+   margin: 10px;
+}
+
+#movie-form {
+   padding: 10px;
+   padding-top: 0px;
+   
+}
+
+#dark-light-button {
+   margin-top: 8px;
+   font-family: 'Gemunu Libre', sans-serif;
+   font-size: 15px;
+}
+
+.new-movie {
+   font-family: 'Gemunu Libre', sans-serif;
+   font-size: 20px;
+}
+
+#bottom-div {
+   width: 1424px;
+}
+
+/* img, h4, p {
+   display: inline;
+   overflow: auto;
+} */
